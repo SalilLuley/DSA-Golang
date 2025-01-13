@@ -2,6 +2,7 @@ package leetcode_75
 
 import "fmt"
 
+// https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/description/?envType=study-plan-v2&envId=leetcode-75
 func KidsWithCandies() {
 	candies := []int{2, 3, 5, 1, 3}
 	extraCandies := 3

@@ -2,20 +2,20 @@ package leetcode_75
 
 import "fmt"
 
+// https://leetcode.com/problems/two-sum/description/
 func TwoSum() {
-	// fmt.Println(twoSum())
-	fmt.Printf("twoSumOpt(): %v\n", twoSumOpt())
+	fmt.Printf("twoSumOpt(): %v\n", twoSum())
 }
 
 // Brute force - Time Complexity - O(n2)
 // Space Complexity - O(1)
-// func twoSum() []int {
-// 	arr := []int{6, 7, 1, 2, 3, 4, 5}
+// func twoSumBruteForce() []int {
+// 	arr := []int{2, 7, 11, 15}
 // 	target := 9
-// 	for k, i := range arr {
-// 		for n, j := range arr {
+// 	for index1, i := range arr {
+// 		for index2, j := range arr {
 // 			if i+j == target {
-// 				return []int{k, n}
+// 				return []int{index1, index2}
 // 			}
 // 		}
 // 	}
@@ -27,18 +27,16 @@ func TwoSum() {
 Time Complexity - O(n)
 Space Complexity - O (n)
 */
-func twoSumOpt() []int {
-	arr := []int{6, 7, 1, 2, 3, 4, 5}
+func twoSum() []int {
+	arr := []int{2, 7, 11, 15}
 	target := 9
 	hm := make(map[int]int)
-	for i, v := range arr {
-		numberToFind := target - v
-		index, ok := hm[numberToFind]
-		if ok {
-			return []int{index, i}
+	for index, value := range arr {
+		numberToFind := target - value
+		if indexFound, ok := hm[numberToFind]; ok {
+			return []int{indexFound, index}
 		}
-		hm[v] = i
+		hm[value] = index
 	}
-
 	return nil
 }
