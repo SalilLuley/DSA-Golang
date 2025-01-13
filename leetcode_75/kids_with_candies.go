@@ -13,7 +13,7 @@ func KidsWithCandies() {
 // Space Complexity: O(n)
 func kidsWithCandies(candies []int, extraCandies int) []bool {
 	max := 0
-	ans := make([]bool, len(candies))
+	ans := []bool{}
 	for _, v := range candies {
 		if v > max {
 			max = v
