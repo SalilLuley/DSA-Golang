@@ -8,4 +8,5 @@ func main() {
 	leetcode_75.MergeStrings()
 	leetcode_75.GreatestCommonDivisorOfStrings()
 	leetcode_75.KidsWithCandies()
+	leetcode_75.CanPlaceFlowers()
 }

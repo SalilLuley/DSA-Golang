@@ -25,6 +25,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 3   | Greatest Common Divisor String | Easy       | [Solution](./leetcode_75/greatest_common_divisor_string.go) |
 | 4   | Merge Strings                  | Easy       | [Solution](./leetcode_75/merge_strings.go)                  |
 | 5   | Kids With Candies              | Easy       | [Solution](./leetcode_75/kids_with_candies.go)              |
+| 6   | Can Place Flowers              | Easy       | [Solution](./leetcode_75/can_place_flowers.go)              |
 | ... | (More Problems Coming Soon!)   |            |                                                             |
 
 _Note: This table will be continuously updated as I add more solutions._
