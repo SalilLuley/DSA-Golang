@@ -9,4 +9,5 @@ func main() {
 	leetcode_75.GreatestCommonDivisorOfStrings()
 	leetcode_75.KidsWithCandies()
 	leetcode_75.CanPlaceFlowers()
+	leetcode_75.ReverseWords()
 }
