@@ -2,6 +2,7 @@ package leetcode_75
 
 import "fmt"
 
+// https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=leetcode-75
 func ProductExceptSelf() {
 	nums := []int{1, 2, 3, 4}
 	fmt.Printf("productExceptSelf(nums): %v\n", productExceptSelf(nums))
@@ -24,6 +25,8 @@ func ProductExceptSelf() {
 // 	return result
 // }
 
+// Time complexity: O(n)
+// Space complexity: O(n)
 func productExceptSelf(nums []int) []int {
 	n := len(nums)
 	left := make([]int, n)

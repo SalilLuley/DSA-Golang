@@ -18,17 +18,19 @@ Whether you're a recruiter reviewing my work or a fellow programmer looking for 
 
 Here is a categorized list of problems solved, along with links to their respective solution files. Feel free to explore!
 
-| #   | Problem Name                   | Difficulty | Link to Solution                                            |
-| --- | ------------------------------ | ---------- | ----------------------------------------------------------- |
-| 1   | Two Sum                        | Easy       | [Solution](./leetcode_75/two_sum.go)                        |
-| 2   | Find nth Fibonacci             | Easy       | [Solution](./leetcode_75/fibonacci.go)                      |
-| 3   | Greatest Common Divisor String | Easy       | [Solution](./leetcode_75/greatest_common_divisor_string.go) |
-| 4   | Merge Strings                  | Easy       | [Solution](./leetcode_75/merge_strings.go)                  |
-| 5   | Kids With Candies              | Easy       | [Solution](./leetcode_75/kids_with_candies.go)              |
-| 6   | Can Place Flowers              | Easy       | [Solution](./leetcode_75/can_place_flowers.go)              |
-| 7   | Reverse Vowels of a String     | Easy       | [Solution](./leetcode_75/reverse_vowels_of_string.go)       |
-| 8   | Reverse Words in a String      | Medium     | [Solution](./leetcode_75/reverse_words_of_string.go)        |
-| ... | (More Problems Coming Soon!)   |            |                                                             |
+| #   | Problem Name                   | Difficulty | Link to Solution                                                        |
+| --- | ------------------------------ | ---------- | ----------------------------------------------------------------------- |
+| 1   | Two Sum                        | Easy       | [Solution](./leetcode_75/ArrayString/two_sum.go)                        |
+| 2   | Find nth Fibonacci             | Easy       | [Solution](./leetcode_75/ArrayString/fibonacci.go)                      |
+| 3   | Greatest Common Divisor String | Easy       | [Solution](./leetcode_75/ArrayString/greatest_common_divisor_string.go) |
+| 4   | Merge Strings                  | Easy       | [Solution](./leetcode_75/ArrayString/merge_strings.go)                  |
+| 5   | Kids With Candies              | Easy       | [Solution](./leetcode_75/ArrayString/kids_with_candies.go)              |
+| 6   | Can Place Flowers              | Easy       | [Solution](./leetcode_75/ArrayString/can_place_flowers.go)              |
+| 7   | Reverse Vowels of a String     | Easy       | [Solution](./leetcode_75/ArrayString/reverse_vowels_of_string.go)       |
+| 8   | Reverse Words in a String      | Medium     | [Solution](./leetcode_75/ArrayString/reverse_words_of_string.go)        |
+| 9   | Product of Array Except Self   | Medium     | [Solution](./leetcode_75/ArrayString/product_of_array_expcet_self.go)   |
+| 10  | Increasing Triplet Subsequence | Medium     | [Solution](./leetcode_75/ArrayString/increasing_triplet_subsequence.go) |
+| ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._
 
