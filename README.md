@@ -32,6 +32,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 10  | Increasing Triplet Subsequence | Medium     | [Solution](./leetcode_75/ArrayString/increasing_triplet_subsequence.go) |
 | 11  | String Compression             | Medium     | [Solution](./leetcode_75/ArrayString/string_compression.go)             |
 | 12  | Move Zeros                     | Easy       | [Solution](./leetcode_75/TwoPointer/move_zeros.go)                      |
+| 13  | Is Subsequence                 | Easy       | [Solution](./leetcode_75/TwoPointer/is_subsequence.go)                  |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

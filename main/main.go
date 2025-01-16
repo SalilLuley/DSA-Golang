@@ -18,4 +18,5 @@ func main() {
 	arrayString.IncreasingTriplet()
 	arrayString.StringCompression()
 	twoPointer.MoveZeros()
+	twoPointer.IsSubsequence()
 }
