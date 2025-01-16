@@ -30,6 +30,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 8   | Reverse Words in a String      | Medium     | [Solution](./leetcode_75/ArrayString/reverse_words_of_string.go)        |
 | 9   | Product of Array Except Self   | Medium     | [Solution](./leetcode_75/ArrayString/product_of_array_expcet_self.go)   |
 | 10  | Increasing Triplet Subsequence | Medium     | [Solution](./leetcode_75/ArrayString/increasing_triplet_subsequence.go) |
+| 11  | String Compression             | Medium     | [Solution](./leetcode_75/ArrayString/string_compression.go)             |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

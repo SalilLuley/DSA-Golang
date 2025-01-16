@@ -13,4 +13,5 @@ func main() {
 	leetcode_75.ReverseVowels()
 	leetcode_75.ProductExceptSelf()
 	leetcode_75.IncreasingTriplet()
+	leetcode_75.StringCompression()
 }
