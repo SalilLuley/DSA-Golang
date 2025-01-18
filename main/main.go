@@ -19,4 +19,6 @@ func main() {
 	arrayString.StringCompression()
 	twoPointer.MoveZeros()
 	twoPointer.IsSubsequence()
+	twoPointer.ContainerWithMostWater()
+	twoPointer.MaxNumberOfKSumPairs()
 }

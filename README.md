@@ -33,6 +33,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 11  | String Compression             | Medium     | [Solution](./leetcode_75/ArrayString/string_compression.go)             |
 | 12  | Move Zeros                     | Easy       | [Solution](./leetcode_75/TwoPointer/move_zeros.go)                      |
 | 13  | Is Subsequence                 | Easy       | [Solution](./leetcode_75/TwoPointer/is_subsequence.go)                  |
+| 14  | Container With Most Water      | Easy       | [Solution](./leetcode_75/TwoPointer/container_with_most_water.go)       |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._
