@@ -2,6 +2,7 @@ package main
 
 import (
 	arrayString "example.com/leetcode_75/ArrayString"
+	slidingWindow "example.com/leetcode_75/SlidingWindow"
 	twoPointer "example.com/leetcode_75/TwoPointer"
 )
 
@@ -21,4 +22,6 @@ func main() {
 	twoPointer.IsSubsequence()
 	twoPointer.ContainerWithMostWater()
 	twoPointer.MaxNumberOfKSumPairs()
+	slidingWindow.MaximumAverageSubarray()
+	slidingWindow.MaximumNumberOfVowelsInASubstringOfGivenLength()
 }

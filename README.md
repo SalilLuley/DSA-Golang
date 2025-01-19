@@ -34,6 +34,9 @@ Here is a categorized list of problems solved, along with links to their respect
 | 12  | Move Zeros                     | Easy       | [Solution](./leetcode_75/TwoPointer/move_zeros.go)                      |
 | 13  | Is Subsequence                 | Easy       | [Solution](./leetcode_75/TwoPointer/is_subsequence.go)                  |
 | 14  | Container With Most Water      | Easy       | [Solution](./leetcode_75/TwoPointer/container_with_most_water.go)       |
+| 15  | Max Number Of K Sum Pairs      | Medium     | [Solution](./leetcode_75/TwoPointer/max_number_of_k_sum_pairs.go)       |
+| 16  | Maximum Average Subarray I     | Easy       | [Solution](./leetcode_75/SlidingWindow/maximum_average_subarray.go)       |
+| 17  | Maximum Num Of Vowels In SubStr| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)       |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._
