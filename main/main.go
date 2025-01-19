@@ -2,6 +2,7 @@ package main
 
 import (
 	arrayString "example.com/leetcode_75/ArrayString"
+	prefixSum "example.com/leetcode_75/PrefixSum"
 	slidingWindow "example.com/leetcode_75/SlidingWindow"
 	twoPointer "example.com/leetcode_75/TwoPointer"
 )
@@ -25,4 +26,6 @@ func main() {
 	slidingWindow.MaximumAverageSubarray()
 	slidingWindow.MaximumNumberOfVowelsInASubstringOfGivenLength()
 	slidingWindow.MaxConsecutiveOnes()
+	slidingWindow.LongestSubarrayOfOnes()
+	prefixSum.FindHighestAltitude()
 }
