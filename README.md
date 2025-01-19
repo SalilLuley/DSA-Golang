@@ -37,6 +37,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 15  | Max Number Of K Sum Pairs      | Medium     | [Solution](./leetcode_75/TwoPointer/max_number_of_k_sum_pairs.go)       |
 | 16  | Maximum Average Subarray I     | Easy       | [Solution](./leetcode_75/SlidingWindow/maximum_average_subarray.go)       |
 | 17  | Maximum Num Of Vowels In SubStr| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)       |
+| 18  | Maximum Consecutive Ones       | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)       |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

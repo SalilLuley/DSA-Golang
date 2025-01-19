@@ -24,4 +24,5 @@ func main() {
 	twoPointer.MaxNumberOfKSumPairs()
 	slidingWindow.MaximumAverageSubarray()
 	slidingWindow.MaximumNumberOfVowelsInASubstringOfGivenLength()
+	slidingWindow.MaxConsecutiveOnes()
 }
