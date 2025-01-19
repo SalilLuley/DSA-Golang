@@ -39,6 +39,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 17  | Maximum Num Of Vowels In SubStr| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)     |
 | 18  | Maximum Consecutive Ones       | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)         |
 | 19  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
+| 20  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

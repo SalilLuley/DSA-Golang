@@ -28,4 +28,5 @@ func main() {
 	slidingWindow.MaxConsecutiveOnes()
 	slidingWindow.LongestSubarrayOfOnes()
 	prefixSum.FindHighestAltitude()
+	prefixSum.FindPivotIndex()
 }
