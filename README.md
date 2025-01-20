@@ -41,9 +41,10 @@ Here is a categorized list of problems solved, along with links to their respect
 | 19  | Longest Subarray Of 1's After Deleting One Element       | Medium     | [Solution](./leetcode_75/SlidingWindow/longest_subarray_of_ones.go)         |
 | 20  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
 | 21  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
-| 22  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)                 |
-| 23  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)                 |
-| 24  | Determine If Two Strings are Close| Easy      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
+| 22  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)  |
+| 23  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)   |
+| 24  | Determine If Two Strings are Close| Medium      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
+| 25  | Equal Row and Column           | Medium     | [Solution](./leetcode_75/HashMapOrSet/equal_row_column_pairs.go)        |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

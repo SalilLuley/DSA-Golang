@@ -11,14 +11,14 @@ func DetermineIfTwoStringsAreClose() {
 	fmt.Printf("closeStrings(word1, word2): %v\n", closeStrings(word1, word2))
 }
 
-// Time Complexity O (n log n)
-// Space Complexity O (n)
+// Time Complexity O(n)
+// Space Complexity O(1)
 func closeStrings(word1 string, word2 string) bool {
 	if len(word2) != len(word1) {
 		return false
 	}
-	hm1 := make(map[byte]int)
-	hm2 := make(map[byte]int)
+	hm1 := make(map[byte]int, 26)
+	hm2 := make(map[byte]int, 26)
 
 	for i := 0; i < len(word1); i++ {
 		hm1[word1[i]] = hm1[word1[i]] + 1

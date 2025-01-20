@@ -33,4 +33,5 @@ func main() {
 	hashmapOrSet.FindDifferenceOfTwoArrays()
 	hashmapOrSet.UniqueNumberOfOccurances()
 	hashmapOrSet.DetermineIfTwoStringsAreClose()
+	hashmapOrSet.EqualRowColumnPairs()
 }
