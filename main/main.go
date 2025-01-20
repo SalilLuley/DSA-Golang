@@ -2,6 +2,7 @@ package main
 
 import (
 	arrayString "example.com/leetcode_75/ArrayString"
+	hashmapOrSet "example.com/leetcode_75/HashmapOrSet"
 	prefixSum "example.com/leetcode_75/PrefixSum"
 	slidingWindow "example.com/leetcode_75/SlidingWindow"
 	twoPointer "example.com/leetcode_75/TwoPointer"
@@ -29,4 +30,7 @@ func main() {
 	slidingWindow.LongestSubarrayOfOnes()
 	prefixSum.FindHighestAltitude()
 	prefixSum.FindPivotIndex()
+	hashmapOrSet.FindDifferenceOfTwoArrays()
+	hashmapOrSet.UniqueNumberOfOccurances()
+	hashmapOrSet.DetermineIfTwoStringsAreClose()
 }

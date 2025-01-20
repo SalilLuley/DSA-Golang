@@ -40,6 +40,9 @@ Here is a categorized list of problems solved, along with links to their respect
 | 18  | Maximum Consecutive Ones       | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)         |
 | 19  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
 | 20  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
+| 21  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)                 |
+| 22  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)                 |
+| 23  | Determine If Two Strings are Close| Easy      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._
