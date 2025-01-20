@@ -36,13 +36,14 @@ Here is a categorized list of problems solved, along with links to their respect
 | 14  | Container With Most Water      | Easy       | [Solution](./leetcode_75/TwoPointer/container_with_most_water.go)       |
 | 15  | Max Number Of K Sum Pairs      | Medium     | [Solution](./leetcode_75/TwoPointer/max_number_of_k_sum_pairs.go)       |
 | 16  | Maximum Average Subarray I     | Easy       | [Solution](./leetcode_75/SlidingWindow/maximum_average_subarray.go)     |
-| 17  | Maximum Num Of Vowels In SubStr| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)     |
+| 17  | Maximum Number Of Vowels In a SubString| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)     |
 | 18  | Maximum Consecutive Ones       | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)         |
-| 19  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
-| 20  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
-| 21  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)                 |
-| 22  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)                 |
-| 23  | Determine If Two Strings are Close| Easy      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
+| 19  | Longest Subarray Of 1's After Deleting One Element       | Medium     | [Solution](./leetcode_75/SlidingWindow/longest_subarray_of_ones.go)         |
+| 20  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
+| 21  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
+| 22  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)                 |
+| 23  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)                 |
+| 24  | Determine If Two Strings are Close| Easy      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._
