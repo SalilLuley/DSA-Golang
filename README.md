@@ -45,6 +45,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 23  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)   |
 | 24  | Determine If Two Strings are Close| Medium      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
 | 25  | Equal Row and Column           | Medium     | [Solution](./leetcode_75/HashMapOrSet/equal_row_column_pairs.go)        |
+| 26  | Removing Stars From A String   | Medium     | [Solution](./leetcode_75/Stack/remove_stars_from_a_string.go)           |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

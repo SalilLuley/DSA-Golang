@@ -5,6 +5,7 @@ import (
 	hashmapOrSet "example.com/leetcode_75/HashmapOrSet"
 	prefixSum "example.com/leetcode_75/PrefixSum"
 	slidingWindow "example.com/leetcode_75/SlidingWindow"
+	stack "example.com/leetcode_75/Stack"
 	twoPointer "example.com/leetcode_75/TwoPointer"
 )
 
@@ -34,4 +35,5 @@ func main() {
 	hashmapOrSet.UniqueNumberOfOccurances()
 	hashmapOrSet.DetermineIfTwoStringsAreClose()
 	hashmapOrSet.EqualRowColumnPairs()
+	stack.RemovingStarsFromAString()
 }
