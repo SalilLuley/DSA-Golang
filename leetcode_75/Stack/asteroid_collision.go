@@ -8,6 +8,15 @@ func AsteroidCollision() {
 }
 
 func asteroidCollision(asteroids []int) []int {
+	stack := make([]int, len(asteroids)-1)
 
-	return asteroids
+	for i, v := range asteroids {
+		if v < 0 {
+
+		} else {
+			stack = append(stack, v)
+		}
+	}
+
+	return stack
 }

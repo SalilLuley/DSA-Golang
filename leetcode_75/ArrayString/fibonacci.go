@@ -7,19 +7,17 @@ import "fmt"
 // Space complexity: O(1)
 func Fibonacci() {
 	x := 8
-	fmt.Printf("fibonacci(): %v\n", fibonacci(x))
+	fmt.Printf("fibonacci(): %v\n", fib(x))
 }
 
-func fibonacci(x int) int {
-	if x == 0 {
+func fib(n int) int {
+	if n == 0 {
 		return 0
-	} else if x == 1 {
-		return 1
-	} else if x == 2 {
+	} else if n == 1 {
 		return 1
 	}
 	a, b := 0, 1
-	for i := 2; i < x; i++ {
+	for i := 1; i < n; i++ {
 		a, b = b, a+b
 	}
 	return b

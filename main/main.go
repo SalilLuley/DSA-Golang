@@ -36,4 +36,5 @@ func main() {
 	hashmapOrSet.DetermineIfTwoStringsAreClose()
 	hashmapOrSet.EqualRowColumnPairs()
 	stack.RemovingStarsFromAString()
+	stack.AsteroidCollision()
 }
