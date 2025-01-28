@@ -3,7 +3,7 @@ package leetcode_75
 import "fmt"
 
 func FindPivotIndex() {
-	nums := []int{1, 2, 3}
+	nums := []int{1, 7, 3, 6, 5, 6}
 	fmt.Printf("pivotIndex(nums): %v\n", pivotIndex(nums))
 }
 
