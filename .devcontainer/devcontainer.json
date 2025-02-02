@@ -1,0 +1,16 @@
+{
+  "name": "Go DSA Dev Container",
+  "image": "golang:1.23.5",
+  "features": {},
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash"
+  },
+  "postCreateCommand": "go mod init go-dsa || true",
+  "extensions": [
+    "golang.go",
+    "streetsidesoftware.code-spell-checker"
+  ],
+  "mounts": [
+    "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached"
+  ]
+}
