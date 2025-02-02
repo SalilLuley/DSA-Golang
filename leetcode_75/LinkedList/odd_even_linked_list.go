@@ -12,8 +12,6 @@ type ListNode struct {
 func OddEvenList() {
 	head := createLinkedList([]int{1, 2, 3, 4, 5})
 	oddEvenList(head)
-	printLinkedList(head)
-
 }
 
 func printLinkedList(head *ListNode) {

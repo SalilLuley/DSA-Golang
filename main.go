@@ -39,4 +39,5 @@ func main() {
 	stack.RemovingStarsFromAString()
 	stack.AsteroidCollision()
 	linkedList.OddEvenList()
+	linkedList.ReverseLinkedList()
 }
