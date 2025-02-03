@@ -2,7 +2,8 @@ package Leetcode_75
 
 func ReverseLinkedList() {
 	head := createLinkedList([]int{1, 2, 3, 4, 5})
-	printLinkedList(reverseList(head))
+	reverseList(head)
+	// printLinkedList(reverseList(head))
 }
 
 // Question - 1->2->3->4->5

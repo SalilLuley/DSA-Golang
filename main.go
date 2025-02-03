@@ -40,4 +40,5 @@ func main() {
 	stack.AsteroidCollision()
 	linkedList.OddEvenList()
 	linkedList.ReverseLinkedList()
+	linkedList.MaximumTwinSumOfLinkedList()
 }
