@@ -2,6 +2,7 @@ package main
 
 import (
 	arrayString "example.com/leetcode_75/ArrayString"
+	binaryTree "example.com/leetcode_75/BinaryTreeDFS"
 	hashmapOrSet "example.com/leetcode_75/HashmapOrSet"
 	linkedList "example.com/leetcode_75/LinkedList"
 	prefixSum "example.com/leetcode_75/PrefixSum"
@@ -41,4 +42,5 @@ func main() {
 	linkedList.OddEvenList()
 	linkedList.ReverseLinkedList()
 	linkedList.MaximumTwinSumOfLinkedList()
+	binaryTree.MaxDepth()
 }
