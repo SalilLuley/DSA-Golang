@@ -46,7 +46,14 @@ Here is a categorized list of problems solved, along with links to their respect
 | 24  | Determine If Two Strings are Close| Medium      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
 | 25  | Equal Row and Column           | Medium     | [Solution](./leetcode_75/HashMapOrSet/equal_row_column_pairs.go)        |
 | 26  | Removing Stars From A String   | Medium     | [Solution](./leetcode_75/Stack/remove_stars_from_a_string.go)           |
-| 26  | Removing Stars From A String   | Medium     | [Solution](./leetcode_75/Stack/remove_stars_from_a_string.go)           |
+| 27  | Asteroid Collision             | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
+| 28  | Decode String                  | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
+| 29  | Number Of Recent Calls         | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
+| 30  | Dota2 Senate                   | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
+| 31  | Delete The Middle Node Of LL   | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)           |
+| 32  | Odd Even Linked List           | Medium     | [Solution](./leetcode_75/LinkedList/odd_even_linked_list.go)           |
+| 33  | Reverse Linked List            | Medium     | [Solution](./leetcode_75/LinkedList/reverse_linked_list.go)           |
+| 34  | Max Twin Sum Of Linked List    | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)           |
 | ... | (More Problems Coming Soon!)   |            |                                                                         |
 
 _Note: This table will be continuously updated as I add more solutions._

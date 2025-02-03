@@ -66,6 +66,7 @@ func printNodes(root *TreeNode) {
 	fmt.Println()
 }
 
+// Time complexity - O(n)
 func MaxDepth() {
 	values := []interface{}{3, 9, 20, nil, nil, 15, 7}
 	nodes := createNodes(values)
