@@ -43,4 +43,5 @@ func main() {
 	linkedList.ReverseLinkedList()
 	linkedList.MaximumTwinSumOfLinkedList()
 	binaryTree.MaxDepth()
+	binaryTree.LeafSimilar()
 }
