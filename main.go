@@ -44,4 +44,5 @@ func main() {
 	linkedList.MaximumTwinSumOfLinkedList()
 	binaryTree.MaxDepth()
 	binaryTree.LeafSimilar()
+	binaryTree.GoodNode()
 }

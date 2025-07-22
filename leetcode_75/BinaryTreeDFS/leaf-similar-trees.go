@@ -11,7 +11,6 @@ func LeafSimilar() {
 
 	head1 := createNodes(root1)
 	head2 := createNodes(root2)
-
 	fmt.Printf("leafSimilar(head1, head2): %v\n", leafSimilar(head1, head2))
 }
 
