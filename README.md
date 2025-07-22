@@ -18,43 +18,46 @@ Whether you're a recruiter reviewing my work or a fellow programmer looking for 
 
 Here is a categorized list of problems solved, along with links to their respective solution files. Feel free to explore!
 
-| #   | Problem Name                   | Difficulty | Link to Solution                                                        |
-| --- | ------------------------------ | ---------- | ----------------------------------------------------------------------- |
-| 1   | Two Sum                        | Easy       | [Solution](./leetcode_75/ArrayString/two_sum.go)                        |
-| 2   | Find nth Fibonacci             | Easy       | [Solution](./leetcode_75/ArrayString/fibonacci.go)                      |
-| 3   | Greatest Common Divisor String | Easy       | [Solution](./leetcode_75/ArrayString/greatest_common_divisor_string.go) |
-| 4   | Merge Strings                  | Easy       | [Solution](./leetcode_75/ArrayString/merge_strings.go)                  |
-| 5   | Kids With Candies              | Easy       | [Solution](./leetcode_75/ArrayString/kids_with_candies.go)              |
-| 6   | Can Place Flowers              | Easy       | [Solution](./leetcode_75/ArrayString/can_place_flowers.go)              |
-| 7   | Reverse Vowels of a String     | Easy       | [Solution](./leetcode_75/ArrayString/reverse_vowels_of_string.go)       |
-| 8   | Reverse Words in a String      | Medium     | [Solution](./leetcode_75/ArrayString/reverse_words_of_string.go)        |
-| 9   | Product of Array Except Self   | Medium     | [Solution](./leetcode_75/ArrayString/product_of_array_expcet_self.go)   |
-| 10  | Increasing Triplet Subsequence | Medium     | [Solution](./leetcode_75/ArrayString/increasing_triplet_subsequence.go) |
-| 11  | String Compression             | Medium     | [Solution](./leetcode_75/ArrayString/string_compression.go)             |
-| 12  | Move Zeros                     | Easy       | [Solution](./leetcode_75/TwoPointer/move_zeros.go)                      |
-| 13  | Is Subsequence                 | Easy       | [Solution](./leetcode_75/TwoPointer/is_subsequence.go)                  |
-| 14  | Container With Most Water      | Easy       | [Solution](./leetcode_75/TwoPointer/container_with_most_water.go)       |
-| 15  | Max Number Of K Sum Pairs      | Medium     | [Solution](./leetcode_75/TwoPointer/max_number_of_k_sum_pairs.go)       |
-| 16  | Maximum Average Subarray I     | Easy       | [Solution](./leetcode_75/SlidingWindow/maximum_average_subarray.go)     |
-| 17  | Maximum Number Of Vowels In a SubString| Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)     |
-| 18  | Maximum Consecutive Ones       | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)         |
-| 19  | Longest Subarray Of 1's After Deleting One Element       | Medium     | [Solution](./leetcode_75/SlidingWindow/longest_subarray_of_ones.go)         |
-| 20  | Find Largest Altitude          | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)            |
-| 21  | Find Pivot Index               | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                 |
-| 22  | Find Difference Of Two Array   | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)  |
-| 23  | Unique Number Of Occurances    | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)   |
-| 24  | Determine If Two Strings are Close| Medium      | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go)                 |
-| 25  | Equal Row and Column           | Medium     | [Solution](./leetcode_75/HashMapOrSet/equal_row_column_pairs.go)        |
-| 26  | Removing Stars From A String   | Medium     | [Solution](./leetcode_75/Stack/remove_stars_from_a_string.go)           |
-| 27  | Asteroid Collision             | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
-| 28  | Decode String                  | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
-| 29  | Number Of Recent Calls         | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
-| 30  | Dota2 Senate                   | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)           |
-| 31  | Delete The Middle Node Of LL   | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)           |
-| 32  | Odd Even Linked List           | Medium     | [Solution](./leetcode_75/LinkedList/odd_even_linked_list.go)           |
-| 33  | Reverse Linked List            | Medium     | [Solution](./leetcode_75/LinkedList/reverse_linked_list.go)           |
-| 34  | Max Twin Sum Of Linked List    | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)           |
-| ... | (More Problems Coming Soon!)   |            |                                                                         |
+| #   | Problem Name                                       | Difficulty | Link to Solution                                                            |
+| --- | -------------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
+| 1   | Two Sum                                            | Easy       | [Solution](./leetcode_75/ArrayString/two_sum.go)                            |
+| 2   | Find nth Fibonacci                                 | Easy       | [Solution](./leetcode_75/ArrayString/fibonacci.go)                          |
+| 3   | Greatest Common Divisor String                     | Easy       | [Solution](./leetcode_75/ArrayString/greatest_common_divisor_string.go)     |
+| 4   | Merge Strings                                      | Easy       | [Solution](./leetcode_75/ArrayString/merge_strings.go)                      |
+| 5   | Kids With Candies                                  | Easy       | [Solution](./leetcode_75/ArrayString/kids_with_candies.go)                  |
+| 6   | Can Place Flowers                                  | Easy       | [Solution](./leetcode_75/ArrayString/can_place_flowers.go)                  |
+| 7   | Reverse Vowels of a String                         | Easy       | [Solution](./leetcode_75/ArrayString/reverse_vowels_of_string.go)           |
+| 8   | Reverse Words in a String                          | Medium     | [Solution](./leetcode_75/ArrayString/reverse_words_of_string.go)            |
+| 9   | Product of Array Except Self                       | Medium     | [Solution](./leetcode_75/ArrayString/product_of_array_expcet_self.go)       |
+| 10  | Increasing Triplet Subsequence                     | Medium     | [Solution](./leetcode_75/ArrayString/increasing_triplet_subsequence.go)     |
+| 11  | String Compression                                 | Medium     | [Solution](./leetcode_75/ArrayString/string_compression.go)                 |
+| 12  | Move Zeros                                         | Easy       | [Solution](./leetcode_75/TwoPointer/move_zeros.go)                          |
+| 13  | Is Subsequence                                     | Easy       | [Solution](./leetcode_75/TwoPointer/is_subsequence.go)                      |
+| 14  | Container With Most Water                          | Easy       | [Solution](./leetcode_75/TwoPointer/container_with_most_water.go)           |
+| 15  | Max Number Of K Sum Pairs                          | Medium     | [Solution](./leetcode_75/TwoPointer/max_number_of_k_sum_pairs.go)           |
+| 16  | Maximum Average Subarray I                         | Easy       | [Solution](./leetcode_75/SlidingWindow/maximum_average_subarray.go)         |
+| 17  | Maximum Number Of Vowels In a SubString            | Medium     | [Solution](./leetcode_75/SlidingWindow/maximum_number_of_vowels.go)         |
+| 18  | Maximum Consecutive Ones                           | Medium     | [Solution](./leetcode_75/SlidingWindow/max_consecutive_ones.go)             |
+| 19  | Longest Subarray Of 1's After Deleting One Element | Medium     | [Solution](./leetcode_75/SlidingWindow/longest_subarray_of_ones.go)         |
+| 20  | Find Largest Altitude                              | Easy       | [Solution](./leetcode_75/PrefixSum/find_highest_altitude.go)                |
+| 21  | Find Pivot Index                                   | Easy       | [Solution](./leetcode_75/PrefixSum/find_pivot_index.go)                     |
+| 22  | Find Difference Of Two Array                       | Easy       | [Solution](./leetcode_75/HashMapOrSet/find_difference_of_two_array.go)      |
+| 23  | Unique Number Of Occurances                        | Easy       | [Solution](./leetcode_75/HashMapOrSet/unique_number_of_occurances.go)       |
+| 24  | Determine If Two Strings are Close                 | Medium     | [Solution](./leetcode_75/HashMapOrSet/determine_if_two_string_are_close.go) |
+| 25  | Equal Row and Column                               | Medium     | [Solution](./leetcode_75/HashMapOrSet/equal_row_column_pairs.go)            |
+| 26  | Removing Stars From A String                       | Medium     | [Solution](./leetcode_75/Stack/remove_stars_from_a_string.go)               |
+| 27  | Asteroid Collision                                 | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)                       |
+| 28  | Decode String                                      | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)                       |
+| 29  | Number Of Recent Calls                             | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)                       |
+| 30  | Dota2 Senate                                       | Medium     | [Solution](./leetcode_75/Stack/asteroid_collision.go)                       |
+| 31  | Delete The Middle Node Of LL                       | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)     |
+| 32  | Odd Even Linked List                               | Medium     | [Solution](./leetcode_75/LinkedList/odd_even_linked_list.go)                |
+| 33  | Reverse Linked List                                | Medium     | [Solution](./leetcode_75/LinkedList/reverse_linked_list.go)                 |
+| 34  | Max Twin Sum Of Linked List                        | Medium     | [Solution](./leetcode_75/LinkedList/maximum_twin_sum_of_linked_list.go)     |
+| 35  | Max Depth Of a Binary Tree                         | Easy       | [Solution](./leetcode_75/BinaryTreeDFS/max_depth_of_binary_tree.go)         |
+| 36  | Leaf Similar Nodes                                 | Easy       | [Solution](./leetcode_75/BinaryTreeDFS/leaf-similar-trees.go)               |
+| 37  | Count Good Nodes in Binary Tree                    | Medium     | [Solution](./leetcode_75/BinaryTreeDFS/count-good-node-in-binary-tree.go)   |
+| ... | (More Problems Coming Soon!)                       |            |                                                                             |
 
 _Note: This table will be continuously updated as I add more solutions._
 
