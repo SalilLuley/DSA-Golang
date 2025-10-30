@@ -18,10 +18,11 @@ Whether you're a recruiter reviewing my work or a fellow programmer looking for 
 
 Here is a categorized list of problems solved, along with links to their respective solution files. Feel free to explore!
 
-| #   | Problem Name                                       | Difficulty | Link to Solution                                                            |
-| --- | -------------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
-| 1   | Two Sum                                            | Easy       | [Solution](./leetcode_75/problem/twosum.go)                            |
-| ... | (More Problems Coming Soon!)                       |            |                                                                             |
+| #   | Problem Name                 | Difficulty | Link to Solution                                              |
+| --- | ---------------------------- | ---------- | ------------------------------------------------------------- |
+| 1   | Two Sum                      | Easy       | [Solution](./leetcode_75/problem/twosum.go)                   |
+| 1   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go) |
+| ... | (More Problems Coming Soon!) |            |                                                               |
 
 _Note: This table will be continuously updated as I add more solutions._
 
