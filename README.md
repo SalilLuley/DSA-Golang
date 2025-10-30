@@ -20,7 +20,7 @@ Here is a categorized list of problems solved, along with links to their respect
 
 | #   | Problem Name                                       | Difficulty | Link to Solution                                                            |
 | --- | -------------------------------------------------- | ---------- | --------------------------------------------------------------------------- |
-| 1   | Two Sum                                            | Easy       | [Solution](./leetcode_75/problem/two_sum.go)                            |
+| 1   | Two Sum                                            | Easy       | [Solution](./leetcode_75/problem/)                            |
 | ... | (More Problems Coming Soon!)                       |            |                                                                             |
 
 _Note: This table will be continuously updated as I add more solutions._

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"example.com/leetcode_75"
+	Twosum "example.com/leetcode_75/problem"
 )
 
 func main() {
-	leetcode_75.TwoSum()
+	Twosum.TwoSum()
 }
