@@ -22,6 +22,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | --- | ---------------------------- | ---------- | ------------------------------------------------------------- |
 | 1   | Two Sum                      | Easy       | [Solution](./leetcode_75/problem/twosum.go)                   |
 | 1   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go) |
+| 1   | GCD String                   | Easy       | [Solution](./leetcode_75/array/gcd-strings.go)                |
 | ... | (More Problems Coming Soon!) |            |                                                               |
 
 _Note: This table will be continuously updated as I add more solutions._
