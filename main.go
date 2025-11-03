@@ -12,4 +12,5 @@ func main() {
 	Array.CanPlaceFlowers()
 	Array.ReverseVowels()
 	Array.KidsWithCandies()
+	Array.ReverseWords()
 }
