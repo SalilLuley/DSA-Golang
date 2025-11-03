@@ -9,4 +9,5 @@ func main() {
 	Twosum.TwoSum()
 	Array.MergeAlternately()
 	Array.GcdOfStrings()
+	Array.CanPlaceFlowers()
 }
