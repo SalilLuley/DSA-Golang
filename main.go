@@ -10,4 +10,6 @@ func main() {
 	Array.MergeAlternately()
 	Array.GcdOfStrings()
 	Array.CanPlaceFlowers()
+	Array.ReverseVowels()
+	Array.KidsWithCandies()
 }

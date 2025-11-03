@@ -21,8 +21,11 @@ Here is a categorized list of problems solved, along with links to their respect
 | #   | Problem Name                 | Difficulty | Link to Solution                                              |
 | --- | ---------------------------- | ---------- | ------------------------------------------------------------- |
 | 1   | Two Sum                      | Easy       | [Solution](./leetcode_75/problem/twosum.go)                   |
-| 1   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go) |
-| 1   | GCD String                   | Easy       | [Solution](./leetcode_75/array/gcd-strings.go)                |
+| 2   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go) |
+| 3   | GCD String                   | Easy       | [Solution](./leetcode_75/array/gcd-strings.go)                |
+| 4   | Extra Candies                | Easy       | [Solution](./leetcode_75/array/kids-with-candies.go)          |
+| 5   | Can Place Flowers            | Easy       | [Solution](./leetcode_75/array/can-place-flowers.go)          |
+| 6   | Reverse Vowels In a String   | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)    |
 | ... | (More Problems Coming Soon!) |            |                                                               |
 
 _Note: This table will be continuously updated as I add more solutions._
