@@ -13,4 +13,5 @@ func main() {
 	Array.ReverseVowels()
 	Array.KidsWithCandies()
 	Array.ReverseWords()
+	Array.ProductExceptSelf()
 }
