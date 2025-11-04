@@ -18,16 +18,17 @@ Whether you're a recruiter reviewing my work or a fellow programmer looking for 
 
 Here is a categorized list of problems solved, along with links to their respective solution files. Feel free to explore!
 
-| #   | Problem Name                 | Difficulty | Link to Solution                                              |
-| --- | ---------------------------- | ---------- | ------------------------------------------------------------- |
-| 1   | Two Sum                      | Easy       | [Solution](./leetcode_75/problem/twosum.go)                   |
-| 2   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go) |
-| 3   | GCD String                   | Easy       | [Solution](./leetcode_75/array/gcd-strings.go)                |
-| 4   | Extra Candies                | Easy       | [Solution](./leetcode_75/array/kids-with-candies.go)          |
-| 5   | Can Place Flowers            | Easy       | [Solution](./leetcode_75/array/can-place-flowers.go)          |
-| 6   | Reverse Vowels In a String   | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)    |
-| 7   | Reverse A String             | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)    |
-| ... | (More Problems Coming Soon!) |            |                                                               |
+| #   | Problem Name                 | Difficulty | Link to Solution                                                |
+| --- | ---------------------------- | ---------- | --------------------------------------------------------------- |
+| 1   | Two Sum                      | Easy       | [Solution](./leetcode_75/problem/twosum.go)                     |
+| 2   | Merge String Alternatively   | Easy       | [Solution](./leetcode_75/array/merge-string-alternatively.go)   |
+| 3   | GCD String                   | Easy       | [Solution](./leetcode_75/array/gcd-strings.go)                  |
+| 4   | Extra Candies                | Easy       | [Solution](./leetcode_75/array/kids-with-candies.go)            |
+| 5   | Can Place Flowers            | Easy       | [Solution](./leetcode_75/array/can-place-flowers.go)            |
+| 6   | Reverse Vowels In a String   | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)      |
+| 7   | Reverse A String             | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)      |
+| 8   | Product Of Array Except Self | Easy       | [Solution](./leetcode_75/array/product-of-array-except-self.go) |
+| ... | (More Problems Coming Soon!) |            |                                                                 |
 
 _Note: This table will be continuously updated as I add more solutions._
 

@@ -11,14 +11,32 @@ func ProductExceptSelf() {
 	fmt.Printf("productExceptSelf() %v", productExceptSelf(nums))
 }
 
+// func productExceptSelf(nums []int) []int {
+// 	sum := 1
+// 	results := []int{}
+// 	for _, val := range nums {
+// 		sum *= val
+// 	}
+// 	for _, val := range nums {
+// 		results = append(results, sum/val)
+// 	}
+// 	return results
+// }
+
 func productExceptSelf(nums []int) []int {
-	sum := 1
-	results := []int{}
+	res := []int{}
+	prefix := 1
 	for _, val := range nums {
-		sum *= val
+		res = append(res, prefix)
+		prefix *= val
 	}
-	for _, val := range nums {
-		results = append(results, sum/val)
+
+	suffix := 1
+
+	for i := len(nums) - 1; i >= 0; i-- {
+		res[i] *= suffix
+		suffix *= nums[i]
 	}
-	return results
+
+	return res
 }
