@@ -13,7 +13,6 @@ func ProductExceptSelf() {
 	fmt.Printf("productExceptSelf() %v\n", productExceptSelf(nums))
 }
 
-// Does not work with 0
 // func productExceptSelf(nums []int) []int {
 // 	sum := 1
 // 	results := []int{}
@@ -25,27 +24,6 @@ func ProductExceptSelf() {
 // 	}
 // 	return results
 // }
-
-// Left
-// prefix - 1
-// res - [1, 1, 2, 6]
-// 1*1, 1*2 = 2 , 2 * 3 = 6, 6 * 6 = 36
-
-// right
-// nums[1,2,3,4]
-// res[1,1,2,6]
-// suffix - 1/4/12/24
-// res[i] = 6*1, 2*4, 12*1, 24*1
-// suffix = 1*4, 4*3, 12*2,
-// pos - 3
-
-// -1,1,0,-3,3
-// prefix - 1/-1/-1/0/0/0
-// res = [1, -1, -1, 0, 0, 0]
-// prefix = 1*-1, -1*1, -1*0, 0*-3,0*3
-
-//suffix - 1
-//res = i ==
 
 func productExceptSelf(nums []int) []int {
 	res := []int{}

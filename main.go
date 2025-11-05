@@ -14,4 +14,5 @@ func main() {
 	Array.KidsWithCandies()
 	Array.ReverseWords()
 	Array.ProductExceptSelf()
+	Array.IncreasingTriplet()
 }

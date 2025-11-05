@@ -28,6 +28,7 @@ Here is a categorized list of problems solved, along with links to their respect
 | 6   | Reverse Vowels In a String   | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)      |
 | 7   | Reverse A String             | Easy       | [Solution](./leetcode_75/array/reverse-vowel-of-string.go)      |
 | 8   | Product Of Array Except Self | Easy       | [Solution](./leetcode_75/array/product-of-array-except-self.go) |
+| 9   | Increasing triplets          | Easy       | [Solution](./leetcode_75/array/increase-triplet-subsequence.go) |
 | ... | (More Problems Coming Soon!) |            |                                                                 |
 
 _Note: This table will be continuously updated as I add more solutions._
