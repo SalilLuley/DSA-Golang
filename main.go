@@ -2,11 +2,11 @@ package main
 
 import (
 	Array "example.com/leetcode_75/array"
-	Twosum "example.com/leetcode_75/problem"
+	Problem "example.com/leetcode_75/problem"
 )
 
 func main() {
-	Twosum.TwoSum()
+	Problem.TwoSum()
 	Array.MergeAlternately()
 	Array.GcdOfStrings()
 	Array.CanPlaceFlowers()
@@ -15,4 +15,6 @@ func main() {
 	Array.ReverseWords()
 	Array.ProductExceptSelf()
 	Array.IncreasingTriplet()
+	Array.StringCompress()
+	Problem.MoveZeroes()
 }
